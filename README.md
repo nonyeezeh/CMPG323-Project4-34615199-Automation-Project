@@ -82,32 +82,32 @@ This RPA project aims to significantly enhance the efficiency of the UAT process
 
 ## References
 * Uipath.com. (2023). Available at: https://docs.uipath.com/studio/standalone/2023.4/user-guide/ui-automation [Accessed 16 Oct. 2023].
-* 2
-* 3
-* 4
-* 5
-* 6
-* 7
-* 8
-* 9
-* 10
-* 11
-* 12
-* 13
-* 14
-* 15
-* 16
-* 17
-* 19
+* UIpath RPA Learners. 2022. https://www.youtube.com/watch?v=5r1cBumKSi4 Date of access: 19 Oct. 2023.
+* 2023. Uipath.com. https://docs.uipath.com/activities/other/latest/workflow/for-each-row Date of access: 19 Oct. 2023.
+* 2023. Uipath.com. https://docs.uipath.com/studio/standalone/2023.4/user-guide/design-best-practices Date of access: 19 Oct. 2023.
+* UiPath Inc. 2018. What is Robotic Process Automation - RPA Software | UiPath. Uipath.com. https://www.uipath.com/rpa/robotic-process-automation Date of access: 19 Oct. 2023.
+* What is RPA? Robotic Process Automation Explained | RPA Software. 2023. SS&C Blue Prism. https://www.blueprism.com/guides/robotic-process-automation-rpa/ Date of access: 19 Oct. 2023.
+* Automation Anywhere. 2021. Optimize Efficiency with Business Process Automation. Automation Anywhere. Automation Anywhere. https://www.automationanywhere.com/rpa/robotic-process-automation Date of access: 19 Oct. 2023.
+* How to clear all the contents in an excel sheet UiPath - RPA Learners. 2021. RPA Learners. https://rpalearners.com/how-to-clear-all-the-contents-in-an-excel-sheet-uipath/ Date of access: 19 Oct. 2023.
+* Prabhdeep (PD) Singh. 2020. What Are AI and RPA: The Differences, Hype, and When to Use Them Together. Uipath.com. UiPath Inc. https://www.uipath.com/blog/automation/ai-rpa-differences-when-to-use-them-together Date of access: 19 Oct. 2023.
+* RPA vs Intelligent Automation: What’s the Difference? 2023. SS&C Blue Prism. https://www.blueprism.com/automation-journey/intelligent-automation-vs-rpa/ Date of access: 19 Oct. 2023.
+* Pratt, M.K. 2021. Understanding the difference between RPA and AI. CIO. TechTarget. https://www.techtarget.com/searchcio/feature/RPA-and-AI-Understanding-the-difference Date of access: 19 Oct. 2023.
+* McKenzie, C. 2020. https://www.youtube.com/watch?v=5A61BQJlRws Date of access: 19 Oct. 2023.
+* 7 Biggest Benefits of RPA (Robotic Process Automation). 2020. Kofax.com. https://www.kofax.com/learn/blog/benefits-of-rpa Date of access: 19 Oct. 2023.
+* What is RPA (Robotic Process Automation)? | Microsoft Power Automate. 2023. Microsoft.com. https://powerautomate.microsoft.com/en-us/what-is-rpa/ Date of access: 19 Oct. 2023.
+* Lawton, G. 2021. robotic process automation (RPA). CIO. TechTarget. https://www.techtarget.com/searchcio/definition/RPA Date of access: 19 Oct. 2023.
+* UiPath. 2023. Read each cell in row in excel online one drive. UiPath Community Forum. https://forum.uipath.com/t/read-each-cell-in-row-in-excel-online-one-drive/538035/7 Date of access: 19 Oct. 2023.
+* UiPath. 2022. Runtime Type. UiPath Community Forum. https://forum.uipath.com/t/runtime-type/464486 Date of access: 19 Oct. 2023.
+* Tutorials by Mukesh Kala. 2023. https://www.youtube.com/watch?v=6Grx5Z5ybEc Date of access: 19 Oct. 2023.
 * 18
 * 20
-* 21
+* UiPath. 2023. Why there is difference in result between Read Range without excel activity and with excel activity? UiPath Community Forum. https://forum.uipath.com/t/why-there-is-difference-in-result-between-read-range-without-excel-activity-and-with-excel-activity/544163/7 Date of access: 19 Oct. 2023.
 * 2
 * 23
 * 24
-* 25
+* Tutorials by Mukesh Kala. 2021. https://www.youtube.com/watch?v=D_5sOmrH_8U&t=2s Date of access: 19 Oct. 2023.
 * 26
 * 27
 * 28
 * 29
-* 30
+* UiPath. 2022. How to use Excel Read Range Activity in Modern design? Range & Save to parameters examples? UiPath Community Forum. https://forum.uipath.com/t/how-to-use-excel-read-range-activity-in-modern-design-range-save-to-parameters-examples/447501/2 Date of access: 19 Oct. 2023.
