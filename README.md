@@ -99,15 +99,15 @@ This RPA project aims to significantly enhance the efficiency of the UAT process
 * UiPath. 2023. Read each cell in row in excel online one drive. UiPath Community Forum. https://forum.uipath.com/t/read-each-cell-in-row-in-excel-online-one-drive/538035/7 Date of access: 19 Oct. 2023.
 * UiPath. 2022. Runtime Type. UiPath Community Forum. https://forum.uipath.com/t/runtime-type/464486 Date of access: 19 Oct. 2023.
 * Tutorials by Mukesh Kala. 2023. https://www.youtube.com/watch?v=6Grx5Z5ybEc Date of access: 19 Oct. 2023.
-* 18
-* 20
+* 2023. Uipath.com. https://docs.uipath.com/activities/other/latest/ui-automation/select-multiple-items Date of access: 19 Oct. 2023.
+* 2023. Uipath.com. https://docs.uipath.com/orchestrator/automation-cloud/latest/user-guide/publishing-an-app-to-a-tenant Date of access: 19 Oct. 2023.
 * UiPath. 2023. Why there is difference in result between Read Range without excel activity and with excel activity? UiPath Community Forum. https://forum.uipath.com/t/why-there-is-difference-in-result-between-read-range-without-excel-activity-and-with-excel-activity/544163/7 Date of access: 19 Oct. 2023.
-* 2
-* 23
-* 24
+* RPA Vanguard. 2022. https://www.youtube.com/watch?time_continue=1&v=e_qNZTjB8Cs&embeds_referring_euri=https%3A%2F%2Fmail.google.com%2F&embeds_referring_origin=https%3A%2F%2Fmail.google.com&source_ve_path=Mjg2NjY&feature=emb_logo Date of access: 19 Oct. 2023.
+* how to awrite to excel file in uipath - Bing. 2023. Bing. https://www.bing.com/search?pglt=41&q=how+to+awrite+to+excel+file+in+uipath&cvid=1ed68e1b6bf14f418001043fd745200d&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIECAEQADIECAIQADIECAMQADIECAQQADIECAUQADIECAYQADIECAcQADIECAgQANIBCTEwODY4ajBqMagCALACAA&PC=U531&FPIG=4234620989C84F64AB3BE7E5E99BDBEB&first=11&FORM=PERE Date of access: 19 Oct. 2023.
+* UiPath. 2018. Excel opens as read only, how do I write to it? UiPath Community Forum. https://forum.uipath.com/t/excel-opens-as-read-only-how-do-i-write-to-it/23115 Date of access: 19 Oct. 2023.
 * Tutorials by Mukesh Kala. 2021. https://www.youtube.com/watch?v=D_5sOmrH_8U&t=2s Date of access: 19 Oct. 2023.
-* 26
-* 27
-* 28
-* 29
+* SreniTech Insights. 2021. https://www.youtube.com/watch?v=ZjKgPpOnubg Date of access: 19 Oct. 2023.
+* SreniTech Insights. 2023. https://www.youtube.com/watch?v=DEX7n2cyHCQ Date of access: 19 Oct. 2023.
+* Automate with Rakesh. 2022. https://www.youtube.com/watch?v=XYm_38kjFm0 Date of access: 19 Oct. 2023.
+* UiPath Inc. 2023. Intelligent Process Automation (IPA) - RPA & AI | UiPath. Uipath.com. https://www.uipath.com/rpa/intelligent-process-automation Date of access: 19 Oct. 2023.
 * UiPath. 2022. How to use Excel Read Range Activity in Modern design? Range & Save to parameters examples? UiPath Community Forum. https://forum.uipath.com/t/how-to-use-excel-read-range-activity-in-modern-design-range-save-to-parameters-examples/447501/2 Date of access: 19 Oct. 2023.
